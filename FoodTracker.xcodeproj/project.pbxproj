@@ -44,6 +44,7 @@
 		41BC2A7F21E398EB0029C82E /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 		41BC2A8121E3A7120029C82E /* MealTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealTableViewCell.swift; sourceTree = "<group>"; };
 		41BC2A8321E3B3140029C82E /* MealTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealTableViewController.swift; sourceTree = "<group>"; };
+		41BC2A8521E3E10B0029C82E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +68,7 @@
 		41BC2A5121DA96720029C82E = {
 			isa = PBXGroup;
 			children = (
+				41BC2A8521E3E10B0029C82E /* README.md */,
 				41BC2A5C21DA96720029C82E /* FoodTracker */,
 				41BC2A7121DA96730029C82E /* FoodTrackerTests */,
 				41BC2A5B21DA96720029C82E /* Products */,
